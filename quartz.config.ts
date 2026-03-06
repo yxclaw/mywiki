@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "yxclaw's Wiki",
+    pageTitleSuffix: " | 个人知识库",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "zh-CN",
+    baseUrl: "yxclaw.github.io/mywiki",
+    ignorePatterns: ["private", "templates", ".obsidian", "00-Inbox", "10-Daily", "20-Notes", "99-Templates"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
