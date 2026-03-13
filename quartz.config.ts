@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "yxclaw's Wiki",
+    pageTitle: "suisweeney's Wiki",
     pageTitleSuffix: " | 个人知识库",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-CN",
-    baseUrl: "yxclaw.github.io/mywiki",
+    baseUrl: "suisweeney.github.io/mywiki",
     ignorePatterns: ["private", "templates", ".obsidian", "00-Inbox", "10-Daily", "20-Notes", "99-Templates"],
     defaultDateType: "modified",
     theme: {
