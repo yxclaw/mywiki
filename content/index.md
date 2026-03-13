@@ -1,40 +1,40 @@
 ---
-title: yxclaw's Wiki
+title: suisweeney's Wiki
 ---
 
-# 欢迎来到我的知识库 🎉
+# Welcome to my Wiki 🎉
 
-这是一个基于 [Obsidian](https://obsidian.md) 和 [Quartz](https://quartz.jzhao.xyz/) 构建的个人知识库网站。
+This is a personal knowledge base website built with [Obsidian](https://obsidian.md) and [Quartz](https://quartz.jzhao.xyz/).
 
-## 📚 关于
+## 📚 About
 
-- **本地编写**：使用 Obsidian 在本地编写 Markdown 笔记
-- **自动发布**：通过 GitHub Actions 自动构建并发布到 GitHub Pages
-- **开源免费**：全部使用开源工具，完全免费
+- **Local Editing**: Writing Markdown notes locally using Obsidian
+- **Auto Publishing**: Automatically built and published to GitHub Pages via GitHub Actions
+- **Open Source & Free**: Completely free using open-source tools
 
-## 🔧 技术栈
+## 🔧 Tech Stack
 
-| 组件 | 工具 |
+| Component | Tool |
 |------|------|
-| 编辑器 | [Obsidian](https://obsidian.md) |
-| 静态站点生成器 | [Quartz 4](https://quartz.jzhao.xyz/) |
-| 托管平台 | [GitHub Pages](https://pages.github.com/) |
-| 自动部署 | [GitHub Actions](https://github.com/features/actions) |
+| Editor | [Obsidian](https://obsidian.md) |
+| Static Site Generator | [Quartz 4](https://quartz.jzhao.xyz/) |
+| Hosting Platform | [GitHub Pages](https://pages.github.com/) |
+| Auto Deployment | [GitHub Actions](https://github.com/features/actions) |
 
-## 📁 内容分类
+## 📁 Content Categories
 
-- **00-Inbox** - 临时笔记，快速记录想法
-- **10-Daily** - 每日笔记，记录每天的工作和生活
-- **20-Notes** - 永久笔记，整理后的知识
-- **30-Public** - 对外发布的内容
+- **00-Inbox** - Temporary notes, quick ideas
+- **10-Daily** - Daily notes, recording daily work and life
+- **20-Notes** - Permanent notes, organized knowledge
+- **30-Public** - Publicly published content
 
-## 🔗 相关链接
+## 🔗 Related Links
 
-- [GitHub 仓库](https://github.com/yxclaw/mywiki)
-- [Obsidian 官网](https://obsidian.md)
-- [Quartz 文档](https://quartz.jzhao.xyz/)
-- [关于本站](/关于本站)
+- [GitHub Repository](https://github.com/suisweeney/mywiki)
+- [Obsidian Website](https://obsidian.md)
+- [Quartz Documentation](https://quartz.jzhao.xyz/)
+- [About This Site](/About-This-Site)
 
 ---
 
-*最后更新：2026-03-06*
+*Last updated: 2026-03-13*
